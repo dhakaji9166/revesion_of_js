@@ -72,5 +72,5 @@ const fruit1 = [];
 for(array  of fruit){
   fruit1.push(array.toUpperCase());
 }
-console.log(fruit1);
+console   .log(fruit1);
   
